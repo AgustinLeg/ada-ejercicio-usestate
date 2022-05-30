@@ -12,7 +12,7 @@
 - Importar la lista en App
 - Iterar la lista para mostrar dicho componente con su informacion
 
-## Listado de botones
+## Lista
 ```sh
 const lista = [
   {
